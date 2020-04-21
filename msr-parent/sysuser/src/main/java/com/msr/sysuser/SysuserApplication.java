@@ -9,4 +9,5 @@ public class SysuserApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SysuserApplication.class, args);
 	}
+
 }
